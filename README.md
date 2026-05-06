@@ -20,4 +20,7 @@
 
 -Conseguir mostrar meus projetos criativos e conseguir um publico que goste do que faço.
 
-Caso tenha alguma pergunta sinta se livre para mandar um email e te responderei no momento que eu tiver a oportunidade! [[:-)]]
+Caso tenha alguma pergunta sinta se livre para mandar um email e te responderei no momento que eu tiver a oportunidade! 
+
+[:-)]
+=====
