@@ -7,4 +7,8 @@
 -Sistemas Operacionais;
 -Levantamento de Requisitos.
 
+## Linguagens Estudadas:
+-Python
+-C++
+
 Caso tenha alguma pergunta sinta se livre para mandar um email e te responderei no momento que eu tiver a oportunidade! [[:-)]]
